@@ -1,7 +1,7 @@
 # Ex-1 IMPLEMENTATION-OF-SYMBOL-TABLE
 ### Name : REKLIES J
 ### Register Number : 212223110041
-### Date : 15.04.25
+### Date : 10.04.25
 # AIM :
 ## To write a C program to implement a symbol table.
 # ALGORITHM
